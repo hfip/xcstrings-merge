@@ -3,7 +3,7 @@
 from .catalog import MergeError, MergeReport, load_catalog, merge, write_catalog
 from .strings import decode, load_strings, parse_strings, unescape
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 __all__ = [
     "MergeError",
